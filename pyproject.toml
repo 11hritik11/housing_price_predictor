@@ -9,7 +9,7 @@ authors = [
   { name="Rastrabhushan Dahal", email="hritikdahal28@gmail.com" },
 ]
 description = "A Streamlit app to predict California housing prices using Linear Regression."
-readme = "README.md"
+readme = "readme.md"
 requires-python = ">=3.8"
 classifiers = [
     "Programming Language :: Python :: 3",
